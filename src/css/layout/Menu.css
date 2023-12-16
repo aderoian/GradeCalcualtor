@@ -1,0 +1,8 @@
+.Menu {
+    height: 500px;
+    width: 450px;
+    margin: 0 30px;
+
+    background-color: aqua;
+    overflow: hidden;
+}
